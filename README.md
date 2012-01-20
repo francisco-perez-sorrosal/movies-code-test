@@ -7,18 +7,18 @@ Problem: Movies App
 ===================
 
 Imagine you are working for a company that has a movies database in a XML file. The file contains meta-data of several titles, including:
-### ID 
-### Genre(s) 
-### Tags 
-### Title 
-### Year 
-### Director 
-### Popularity
+- ID 
+- Genre(s) 
+- Tags 
+- Title 
+- Year 
+- Director 
+- Popularity
 
 The company wants to represent the above data entities in an application in order to classify the movies by:
-### Popularity (top - down) 
-### Similar movies (same genres and/or tags) 
-### Same director
+- Popularity (top - down) 
+- Similar movies (same genres and/or tags) 
+- Same director
 
 Once the movies are classified, there will be a need to create a playlist of movies for each classification category, the playlist should allow to iterate on the collection by going backwards or forwards.
 
