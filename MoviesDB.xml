@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Movie_Database>
+	<!-- Each movie has the structure defined in the code test -->
+	<Movie>
+		<ID>1</ID>
+		<Genre>War</Genre>
+		<Tags>
+			<Tag>Tag1</Tag>
+		</Tags>
+		<Title>The Teddy Bear</Title>
+		<Year>2011</Year>
+		<Director>Francis F. Copula</Director>
+		<Popularity>5</Popularity>
+	</Movie>
+	
+	<Movie>
+		<ID>2</ID>
+		<Genre>Comedy</Genre>
+		<Tags>
+			<Tag>Tag2</Tag>
+		</Tags>
+		<Title>The Lost Penny</Title>
+		<Year>2010</Year>
+		<Director>Frank D. Dick</Director>
+		<Popularity>2</Popularity>
+	</Movie>
+	
+	<Movie>
+		<ID>3</ID>
+		<Genre>War</Genre>
+		<Tags>
+			<Tag>Tag1</Tag>
+		</Tags>
+		<Title>Who's Who</Title>
+		<Year>2009</Year>
+		<Director>Francis F. Copula</Director>
+		<Popularity>3</Popularity>
+	</Movie>
+	
+</Movie_Database>
